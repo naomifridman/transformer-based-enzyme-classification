@@ -41,3 +41,30 @@ Curated gene dataset from UniProt, BRENDA, and Enzyme.db.
 ## Usage
 
 Extract and visualize attention patterns from protein sequences to understand model predictions.
+
+## 📄 Citation
+
+If you use this work in your research, please cite:
+
+### Dataset and Models
+```bibtex
+@dataset{fridman_2025_transformer_enzyme,
+  author       = {Fridman, Naomi},
+  title        = {Transformer-Based Enzyme Classification: Models and Dataset},
+  year         = {2025},
+  version      = {v1.0},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15640615},
+  url          = {https://doi.org/10.5281/zenodo.15640615}
+}
+
+@software{fridman_2025_transformer_code,
+  author       = {Fridman, Naomi},
+  title        = {naomifridman/transformer-based-enzyme-classification: Initial Release: ESM2 Enzyme Classification},
+  year         = {2025},
+  version      = {v1.0.0},
+  publisher    = {Zenodo},
+  doi          = {[10.5281/zenodo.15640772]},
+  url          = {https://github.com/naomifridman/transformer-based-enzyme-classification}
+}
+
