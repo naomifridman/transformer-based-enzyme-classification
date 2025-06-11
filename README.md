@@ -16,7 +16,7 @@ Fine-tuned ESM2 models for enzyme classification and EC function prediction.
 - Zoom-in capability to examine amino acid relationship patterns
 - Multi-layer attention extraction and aggregation
 
-![Attention Map Example](images/Overview_Transformer_Based_Enzyme_Classification.png)
+![Attention Map Example](images/Transformer_Based_Enzyme_Classification_attention_map.png)
 
 
 ## 📊 Results
