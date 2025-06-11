@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large model files (hosted on Zenodo)
+*.pt
+*.pth
+*.bin
+*.safetensors
+models/*.pt
+models/*.pth
+
+# Large data files
+*.csv
+*.tsv
+*.fasta
+*.fa
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
