@@ -10,6 +10,15 @@ Predict whether genes are enzymes and determine their EC commission number for a
 
 Fine-tuned ESM2 models for enzyme classification and EC function prediction.
 
+## 🔍 Attention Analysis
+
+- Attention map visualization 
+- Zoom-in capability to examine amino acid relationship patterns
+- Multi-layer attention extraction and aggregation
+
+![Attention Map Example](images/attention_example.png)
+
+
 ## 📊 Results
 
 Test results for enzyme classification:
@@ -21,11 +30,6 @@ Test results for enzyme classification:
 
 Curated gene dataset from UniProt, BRENDA, and Enzyme.db.
 
-## 🔍 Attention Analysis
-
-- Attention map visualization 
-- Zoom-in capability to examine amino acid relationship patterns
-- Multi-layer attention extraction and aggregation
 
 ## 📁 Contents
 
