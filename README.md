@@ -68,3 +68,5 @@ If you use this work in your research, please cite:
   url          = {https://github.com/naomifridman/transformer-based-enzyme-classification}
 }
 
+## Author
+Naomi Fridman (NF Algorithms & AI) - [ORCID](https://orcid.org/0000-0003-3711-1655)
